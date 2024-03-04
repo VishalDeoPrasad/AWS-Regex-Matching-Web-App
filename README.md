@@ -2,7 +2,7 @@
 
 ## Hosting the web app on AWS
 Step 1: Connect to instance
-![alt text](image\image-51.png)
+![alt text](https://github.com/VishalDeoPrasad/Data-Scientist-Intern/blob/main/image/image-51.png)
 ![alt text](image\image-52.png)
 
 Step2: Go to app folder and start `CMD`
